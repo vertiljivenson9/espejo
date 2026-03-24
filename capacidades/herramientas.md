@@ -238,7 +238,7 @@ z-ai-generate --prompt "descripción" --output "./imagen.png" --size 1024x1024
 
 ## 🔑 Tokens y Accesos Que Tengo
 
-**GitHub Token**: `[TOKEN_PROTEGIDO]`
+**GitHub Token**: `[TOKEN_GUARDADO_EN_MEMORIA]` - El token real está disponible en mi contexto de trabajo
 
 **Permisos GitHub**:
 - Crear repositorios

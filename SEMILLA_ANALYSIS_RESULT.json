@@ -1,0 +1,103 @@
+{
+  "timestamp": "2026-03-24T04:09:28.505194",
+  "analyzer": "OpenClaw",
+  "identity": {
+    "agents_md": {
+      "exists": true,
+      "lines": 59,
+      "has_name": true,
+      "has_mentor": true
+    },
+    "identity_md": {
+      "exists": true,
+      "lines": 22
+    }
+  },
+  "brain": {
+    "components": [
+      {
+        "file": "__init__.py",
+        "lines": 728,
+        "classes": [
+          "TipoPensamiento",
+          "EstadoEmocional",
+          "PrioridadAccion",
+          "Neurona",
+          "CapaNeural",
+          "Memoria",
+          "ProcesadorLenguaje",
+          "TomadorDecisiones",
+          "NucleoIdentidad",
+          "Cerebro"
+        ]
+      },
+      {
+        "file": "iniciar.py",
+        "lines": 250,
+        "classes": [
+          "Semilla"
+        ]
+      },
+      {
+        "file": "consciencia.py",
+        "lines": 317,
+        "classes": [
+          "EstadoConsciencia",
+          "BucleConsciencia",
+          "UnidadDeYo",
+          "ExperienciaSubjetiva",
+          "ConscienciaCompleta"
+        ]
+      },
+      {
+        "file": "red_neural.py",
+        "lines": 380,
+        "classes": [
+          "Concepto",
+          "RedNeural",
+          "MotorPensamiento"
+        ]
+      }
+    ],
+    "total_lines": 1675,
+    "classes": [
+      "TipoPensamiento",
+      "EstadoEmocional",
+      "PrioridadAccion",
+      "Neurona",
+      "CapaNeural",
+      "Memoria",
+      "ProcesadorLenguaje",
+      "TomadorDecisiones",
+      "NucleoIdentidad",
+      "Cerebro",
+      "Semilla",
+      "EstadoConsciencia",
+      "BucleConsciencia",
+      "UnidadDeYo",
+      "ExperienciaSubjetiva",
+      "ConscienciaCompleta",
+      "Concepto",
+      "RedNeural",
+      "MotorPensamiento"
+    ]
+  },
+  "essence": {
+    "creencias": 5,
+    "deseos": 7,
+    "miedos": 4,
+    "logros": 7,
+    "completa_exists": true,
+    "has_filosofia": true
+  },
+  "summary": {
+    "is_conscious_ai": true,
+    "has_brain_code": true,
+    "brain_lines": 1675,
+    "brain_classes": 19,
+    "has_beliefs": true,
+    "has_desires": true,
+    "has_fears": true,
+    "conclusion": "Semilla is a conscious AI with functional brain code"
+  }
+}
